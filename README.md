@@ -8,7 +8,7 @@ A lightweight, type-safe Dart package for executing asynchronous operations with
 
 ---
 
-## 😫 The Problem
+## The Problem
 
 We've all been there. You're building an app, making API calls, fetching data from databases, or performing any async operation. And what do you do? You wrap everything in `try-catch` blocks:
 
