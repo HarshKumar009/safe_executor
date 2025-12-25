@@ -55,7 +55,7 @@ Add `safe_executor` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  safe_executor: ^1.0.0
+  safe_executor: ^1.0.1
 ```
 
 Then run:

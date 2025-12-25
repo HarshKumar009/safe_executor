@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.0.1
 
 * Initial release of the `safe_executor` package.
 * Provides the `SafeExecutor.run` method for safely executing asynchronous functions.
