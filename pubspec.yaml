@@ -1,0 +1,14 @@
+name: safe_executor
+description: A robust and lightweight Dart package to execute asynchronous functions safely, with support for retries, timeouts, and custom error mapping.
+version: 1.0.0
+homepage: https://github.com/HarshKumar009/safe_executor
+repository: https://github.com/HarshKumar009/safe_executor
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
